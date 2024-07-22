@@ -1,7 +1,7 @@
 ## Olá, tudo bem? Sou o Erick Bortoloti :) 
 
 
-- 🌱 Estudante de Java, JavaScript e Banco de Dados (MYSQL).
+- 🌱 Estudante de Análise e Desenvolvimento de sistemas, com foco na área de DevOps & Back-end. 
 
 <div>
   <a href="https://github.com/ErickBortoloti/">

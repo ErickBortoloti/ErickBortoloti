@@ -1,17 +1,14 @@
 ## Olá, tudo bem? Sou o Erick Bortoloti :) 👋
 
-* 🌱 Estudante de Análise e Desenvolvimento de Sistemas, com foco em **DevOps, SRE e Back-end**.
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas, com foco em **DevOps, SRE e Back-end**.
 
 <div align="center">
-  <a href="https://github.com/ErickBortoloti">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickBortoloti&layout=compact&langs_count=16&theme=panda"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErickBortoloti&theme=github_dark" />
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" />

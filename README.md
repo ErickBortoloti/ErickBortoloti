@@ -3,7 +3,7 @@
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas, com foco em **DevOps, SRE e Back-end**.
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErickBortoloti&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErickBortoloti&theme=github_dark&v=2" />
 </div>
 
 <div style="display: inline_block"><br>
